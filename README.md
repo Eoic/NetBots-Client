@@ -1,5 +1,5 @@
 # NetBots Client
-Front-end of the NetBots project.
+Front-end for the NetBots project.
 
 ### Installation and usage
 See package.json.
