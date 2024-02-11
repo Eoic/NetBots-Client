@@ -15,7 +15,6 @@
     "vite-plugin-solid": "^2.6.1"
   },
   "dependencies": {
-    "isolated-vm": "^4.5.0",
     "pixi.js": "^7.2.0",
     "solid-js": "^1.6.15"
   }
